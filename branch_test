@@ -3,3 +3,4 @@ i a something on this txt, i was wondering which brach need to be merge!haha
 test branch manage.
 i want to know if the 'dev' branch have the right to push to remote repository.at this time i stash the content in 'dev' branch, and switch to 'bug101' branch.
 test rebase
+i can`t tell out the difference between reabse and merge
